@@ -1,0 +1,15 @@
+{
+  "seed": 137,
+  "height": 2048,
+  "width": 2048,
+  "grid_shape": [
+    16,
+    16,
+    8,
+    3,
+    4
+  ],
+  "anchors": 64,
+  "tile_size": 64,
+  "max_workspace_bytes": 16777216
+}
